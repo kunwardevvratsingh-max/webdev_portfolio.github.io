@@ -78,6 +78,3 @@ If you like this project, consider giving it a ⭐ on GitHub!
 
 
 
-Then upload `preview.png` to your repository, and GitHub will display it directly in the README.
-
-This will make your repository look much more professional for recruiters.
