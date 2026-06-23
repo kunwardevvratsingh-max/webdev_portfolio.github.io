@@ -70,7 +70,7 @@ https://github.com/kunwardev0210/webdev_portfolio.github.io
 
 **Dev Singh**
 
-- GitHub: https://github.com/kunwarde0210
+- GitHub: https://github.com/kunwardev0210
 
 ## ⭐ Support
 
